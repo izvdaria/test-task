@@ -4,4 +4,4 @@
 
 * To run sample tests [click here](https://github.com/izvdaria/test-task/actions/workflows/playwright.yml) and then click "Run workflow" button.
 > [!NOTE]
-> Note that tests might fail due to dinamically updated values in the table (however I tried to pick values that aren't updated to frequently).
+> Note that tests might fail due to dynamically updated values in the table (however I tried to pick values that aren't updated to frequently).
